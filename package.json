@@ -1,0 +1,19 @@
+{
+  "name": "data-viz-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "d3-fetch": "^3.0.1",
+    "next": "14.0.2",
+    "plotly.js": "^2.27.1",
+    "plotly.js-dist": "^2.27.1",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
